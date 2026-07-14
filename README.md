@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=HI'Myself+Ransh+Chettri" alt="Typing SVG"/>
 </p>
-<h3 align="center"> A Fullstack  Developer & AI | ML Enthusiast</h3>
+<h3 align="center">Software Engineer | Full Stack (React, Node.js, Django) | Python | Java | AI/ML | MERN | Open to Backend & AI Roles</h3>
          
 <br>
 
